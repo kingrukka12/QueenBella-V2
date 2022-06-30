@@ -83,11 +83,11 @@ HAVE A FUN!
 
 ### step 1
 
-[![Run on Repl.it](https://repl.it/badge/github/AnonyMouSeTEAM/QueenBella)](https://replit.com/@AnonyMouSeTEAM/Queen-Bella-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/AnonyMouSeTEAM/QueenBella-V2)](https://replit.com/@AnonyMouSeTEAM/Queen-Bella-QR?v=1)
 
 ### step 2
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonyMouSeTEAM/QueenBella)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnonyMouSeTEAM/QueenBella-V2)
 
 
 
