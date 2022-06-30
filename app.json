@@ -1,0 +1,24 @@
+{
+  "name": "QueenBeall",
+  "description": "QueenBella | AMS TEAM",
+  "repository": "https://github.com/AnonyMouSeTEAM/QueenBella",
+  "logo": "https://i.ibb.co/d2GnxCR/LOGO.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
